@@ -17,7 +17,7 @@ namespace WindowsFormsKurs
         List<Teilnehmer> vieleTeilnehmer = null;
         OleDbConnection con = null;
         OleDbCommand cmd = null;
-        OleDbDataReader reader = null;
+        OleDbDataReader reader = null;//
         public Form1()
         {
             InitializeComponent();
